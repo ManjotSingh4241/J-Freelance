@@ -1,17 +1,4 @@
-/**
-*  WEB322 - Assignment 6
-*  I declare that this assignment is my own work in accordance with Seneca Academic Policy. 
-*  No part of this assignment has been copied manually or electronically from any other source
-*  (including web sites and friends) or distributed to other students.
-*  I understand that if caught doing so, I will receive zero on this assignment and possibly 
-*  fail the entire course.
-*
-*  Name: Jasleen Kaur
-*  Student ID: 170585210
-*  Date: 2023-08-03
-*  Cyclic Web App URL: https://poised-plum-jodhpurs.cyclic.app
-*  GitHub Repository URL: https://github.com/Jasleen602/web322-app
-**/
+
 
 var authData = require("./auth-service.js");
 var express = require("express");
